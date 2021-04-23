@@ -37,6 +37,6 @@ Suppose you want to download Hunter x Hunter
 
 ![6](https://cdn.discordapp.com/attachments/762973053973823499/770884030010884147/unknown.png)
 
-- Your download has begun.................
+- Your Download Should Begin.
 
 ![7](https://cdn.discordapp.com/attachments/762973053973823499/770884082519244830/unknown.png)
