@@ -12,13 +12,6 @@ run the script by:
  or 
 `python3 downloader.py`
 
-## Changing default directory
-Edit the part of code shown below using notepad or other editor of your choice, its commented by default to prevent any errors.
-
-*The script will download to its directory by default)*
-
-![file_dir](https://cdn.discordapp.com/attachments/762973053973823499/772003604889731092/unknown.png)
-
 # Example:
 Suppose you want to download Hunter x Hunter
 
